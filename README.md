@@ -2,7 +2,7 @@
 
 **Senior Product Owner — Data & AI Platforms | London, UK**
 
-Product leader at the intersection of enterprise data platforms and applied AI. Currently at GSK, leading data product and analytics remediation within a large-scale SAP ECC/BW to S/4HANA migration on Azure — multi-vendor delivery under fixed-fee commercials. Prior experience across pharma, capital markets, retail banking, wealth management, and consulting.
+Product leader at the intersection of enterprise data platforms and applied AI. Currently at GSK, leading data product and analytics remediation within a large-scale SAP ECC/BW to S/4HANA migration on Azure — multi-vendor delivery. Prior experience across pharma, capital markets, retail banking, wealth management, and consulting.
 
 ---
 
@@ -22,8 +22,8 @@ Product leader at the intersection of enterprise data platforms and applied AI. 
 
 ## Commercial AI & Forecasting
 
-- **Generative AI for commercial and finance** — Gen AI product leadership across pharma, banking, and wealth management; 60% agent productivity uplift, 200% user adoption, 400% platform subscription growth
-- **Credit-risk forecasting** — real-time credit-risk monitoring and forecasting products at Lloyds Banking Group; 3% reduction in non-performing loans
+- **Generative AI for commercial and finance** — Gen AI product leadership across pharma, banking, and wealth management;
+- **Credit-risk forecasting** — real-time credit-risk monitoring and forecasting products at Lloyds Banking Group; 
 - **Commercial forecasting** — marketing mix modelling, brand equity tracking, and donor lifetime value forecasting at Macmillan Cancer Support, informing spend allocation and channel ROI
 
 ## Projects
