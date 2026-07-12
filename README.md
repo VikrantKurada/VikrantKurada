@@ -1,6 +1,6 @@
 # Vikrant Kurada
 
-**Senior Product Owner — Data & AI Platforms | London, UK**
+**Senior Product Owner - Data & AI Applications | London, UK**
 
 Product leader at the intersection of enterprise data platforms and applied AI. Currently at GSK, leading data product and analytics remediation within a large-scale SAP ECC/BW to S/4HANA migration on Azure — multi-vendor delivery. Prior experience across pharma, capital markets, retail banking, wealth management, and consulting.
 
