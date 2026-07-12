@@ -57,4 +57,4 @@ Product leader at the intersection of enterprise data platforms and applied AI. 
 
 ---
 
-[LinkedIn](#) | [Email](#)
+[[LinkedIn][https://www.linkedin.com/in/kuradavikrant]](#) | [Email](#)
