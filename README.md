@@ -1,6 +1,6 @@
 # Vikrant Kurada
 
-Senior Product Owner, Data and AI Applications, GSK, London
+Product Owner, Data and AI Applications, GSK, London
 
 At GSK I own data products in the SAP ECC/BW to S/4HANA migration. Outside work I build AI products whose results can be audited.
 
