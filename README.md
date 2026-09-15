@@ -2,7 +2,7 @@
 
 Senior Product Owner, Data and AI Applications, GSK, London
 
-At GSK I own data products in the SAP ECC/BW to S/4HANA migration. Outside work I build AI analysis projects whose results can be audited.
+At GSK I own data products in the SAP ECC/BW to S/4HANA migration. Outside work I build AI products whose results can be audited.
 
 I have led GenAI products in pharma and financial services, where audit-trail requirements limited what reached production more often than model capability did. In my analysis projects the model plans and explains while typed, versioned tools do the arithmetic. Each run is recorded in enough detail to be reproduced later, and the record includes any refused step.
 
