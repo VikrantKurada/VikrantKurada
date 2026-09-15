@@ -26,16 +26,16 @@ Qwen and DeepSeek models run through Ollama on an RTX 5090 with 32 GB of VRAM, a
 
 | Project | Function | Stack |
 |---|---|---|
-| Report Rationalization AI | Embeds the design documents of [X] enterprise Power BI reports for RAG and clusters the reports by function to identify duplicates. | Azure, vector search |
+| Report Rationalization AI | Embeds the design documents of enterprise Power BI reports for RAG and clusters the reports by function to identify duplicates. | Azure, vector search |
 | Agentforce (private, half built) | Assembles multi-agent teams dynamically with per-agent memory and telemetry. Workflows pause at human approval points. | TypeScript |
 | AI Scrum Team | Runs the roles of an agile delivery team as local agents that operate unattended. | CrewAI, Ollama |
 | nb-remix | Parses Jupyter notebooks in the style of NotebookLM and links them through semantic search and a knowledge graph. | Ollama, pgvector, Neo4j, CrewAI |
 | LearnMax | Converts syllabus content into structured JSON and interactive concept maps. | Python, Excalidraw, Jupyter |
 | Budget Scenario Planner | Models programme finances under alternative scenarios. | Python |
 
-## 13 GSK data products drawing on 570+ ECC tables must switch to S/4HANA by 2026
+## GSK data products drawing on 570+ ECC tables must switch to S/4HANA by 2027
 
-The migration runs on Azure, and I keep its [X] vendors aligned. The data products sit on a medallion architecture, and the [X] Power BI reports built on them are remediated in step so reporting continues through cutover.
+The migration runs on Azure, and I keep its vendors aligned. The data products sit on a medallion architecture, and the Power BI reports built on them are remediated in step so reporting continues through cutover.
 
 I negotiate multi-million-pound statements of work and evaluate RFP responses from tier-1 system integrators. Milestones in each statement of work are written so slippage is visible on the due date. Delivery governance spans architecture review boards, BRDs, NFRs, risk management and executive communication.
 
