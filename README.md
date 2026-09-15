@@ -41,7 +41,7 @@ I negotiate multi-million-pound statements of work and evaluate RFP responses fr
 
 ## My career spans pharma, capital markets, retail banking, wealth management and consulting
 
-At Lloyds Banking Group I delivered real-time credit-risk monitoring and forecasting products. For Macmillan Cancer Support I built marketing mix models, brand equity tracking and donor lifetime value analysis, which Macmillan used to allocate spend and value each channel.
+At Lloyds Banking Group I delivered Commercial Banking Data Products. For Macmillan Cancer Support I built marketing mix models, brand equity tracking and donor lifetime value analysis, which Macmillan used to allocate spend and value each channel.
 
 ---
 
