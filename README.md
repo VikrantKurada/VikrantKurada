@@ -39,7 +39,7 @@ The migration runs on Azure, and I keep its vendors aligned. The data products s
 
 I negotiate multi-million-pound statements of work and evaluate RFP responses from tier-1 system integrators. Milestones in each statement of work are written so slippage is visible on the due date. Delivery governance spans architecture review boards, BRDs, NFRs, risk management and executive communication.
 
-## My career spans pharma, capital markets, retail banking, wealth management and consulting
+## My career spans pharma, capital markets, commercial banking, wealth management and consulting
 
 At Lloyds Banking Group I delivered Commercial Banking Data Products. For Macmillan Cancer Support I built marketing mix models, brand equity tracking and donor lifetime value analysis, which Macmillan used to allocate spend and value each channel.
 
